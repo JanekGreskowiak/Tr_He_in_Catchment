@@ -6,4 +6,6 @@ dependencies:
   - numpy
   - ipywidgets
   - matplotlib
+  - scipy
   - appmode
+  - warnings
