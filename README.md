@@ -12,6 +12,10 @@ The model is purely based on analytical solutions that describe the travel times
 (Chesnaux and Allen, 2008; Greskowiak et al., 2013), as well as advective-dispersive-reactive transport (Kinzelbach, 1987) 
 considering a time varying boundary condition based on the superposition principle (Wexler, 1992).
 
+The app can be assessed via the follwing link. The loading time can occasionally be 1-2 minutes.
+
+https://mybinder.org/v2/gh/JanekGreskowiak/Tr_He_in_Catchment/main?urlpath=/apps/Tr_He_age_Catchment.ipynb
+
 Literature:
 
 Chesnaux, R. and Allen, D.M. (2008). Groundwater travel times for unconfined island aquifers bounded by freshwater or seawater. Hydrogeology Journal, 16: 437-445. https://doi.org/10.1007/s10040-007-0241-6.
