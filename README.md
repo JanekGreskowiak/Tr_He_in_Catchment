@@ -12,9 +12,9 @@ The model is purely based on analytical solutions that describe the travel times
 (Chesnaux and Allen, 2008; Greskowiak et al., 2013), as well as advective-dispersive-reactive transport (Kinzelbach, 1987) 
 considering a time varying boundary condition based on the superposition principle (Wexler, 1992).
 
-Chesnaux, R. and Allen, D.M. (2008). Groundwater travel times for unconfined island aquifers bounded by freshwater or seawater. Hydrogeology Journal, 16: 437-445. doi:10.1007/s10040-007-0241-6.
+Chesnaux, R. and Allen, D.M. (2008). Groundwater travel times for unconfined island aquifers bounded by freshwater or seawater. Hydrogeology Journal, 16: 437-445. https://doi.org/10.1007/s10040-007-0241-6.
 
-Greskowiak, J., Röper, T., Post, V.E.A. (2013): Closed-Form Approximations for Two-Dimensional Groundwater Age Patterns in a Fresh Water Lens. Ground Water, 51(4), 629-634.
+Greskowiak, J., Röper, T., Post, V.E.A. (2013): Closed-Form Approximations for Two-Dimensional Groundwater Age Patterns in a Fresh Water Lens. Ground Water, 51(4), 629-634. https://doi.org/10.1111/j.1745-6584.2012.00996.x
 
 Kinzelbach, W. (1987). Numerische Methoden zur Modellierung des Transports von Schadstoffen im Grundwasser, Habilitationsschrift, Universität Stuttgart.
 
