@@ -1,7 +1,7 @@
 # Tr_He_in_Catchment
 This juypter notebook simulates the entry, transport and radioactive decay of tritium in groundwater, and the corresponding so-called Tritium-Helium groundwater age. 
 
-The atomic-bomb tests in the 1960ties released tritium into the atmoshere leading to a peak of ~ 10000 Tritium Units in rainwater. 
+The atomic-bomb tests in the 1960ties released tritium into the atmoshere leading to a peak of ~ 6000 Tritium Units in rainwater. 
 Some rainwater infiltrates into the ground and feeds the aquifers as groundwater recharge. The residence time of a water parcel in an aquifer 
 after infiltration can be calulated from the ratio of the remaining Tritium and enriched Helium in a groundwater sample. The calulated age is an approximation only, as the  hydrodynamic dispersion leads to bias, especially around the bomb-peak time.
 
