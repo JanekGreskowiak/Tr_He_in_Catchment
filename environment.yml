@@ -3,8 +3,9 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - ipywidgets
-  - matplotlib
-  - scipy
-  - appmode
+  - python=3.9.7
+  - numpy=1.21.2
+  - ipywidgets=7.6.5
+  - matplotlib=3.4.3
+  - scipy=1.7.1
+  - appmode=0.8.0
