@@ -4,3 +4,5 @@ channels:
   - conda-forge
 dependencies:
   - scipy
+  - matplotlib
+  - ipywidgets
