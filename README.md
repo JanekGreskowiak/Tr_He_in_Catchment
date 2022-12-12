@@ -3,7 +3,7 @@ This juypter notebook simulates the entry, transport and radioactive decay of tr
 
 The atomic-bomb tests in the 1960ties released tritium into the atmoshere leading to a peak of ~ 6000 Tritium Units in rainwater. 
 Some rainwater infiltrates into the ground and feeds the aquifers as groundwater recharge. The residence time of a water parcel in an aquifer 
-after infiltration can be calulated from the ratio of the remaining Tritium and enriched Helium in a groundwater sample. The calulated age is an approximation only, as the  hydrodynamic dispersion leads to bias, especially around the bomb-peak time.
+after infiltration can be calculated from the ratio of the remaining Tritium and enriched Helium in a groundwater sample. The calulated age is an approximation only, as the  hydrodynamic dispersion leads to bias, especially around the bomb-peak time.
 
 The here presented 2D-vertical cross-section model of an aquifer simulates the process in a very simplified manner. The model assumes a homogeneous aquifer with a 
 constant groundwater recharge over space and time. It compares the Tritium - Helium age and the so called piston-flow age (which assumes no dispersion) in the aquifer, as well as the resulting mixing age in a groundwater sample, taken from a monitoring well of specific position and screen length.
