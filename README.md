@@ -14,7 +14,7 @@ considering a time varying boundary condition based on the superposition princip
 
 The web application can be accessed via the follwing link. The loading time can occasionally be 1-2 minutes.
 
-https://mybinder.org/v2/gh/JanekGreskowiak/Tr_He_in_Catchment/HEAD?urlpath=%2Fvoila%2Frender%2FGroundwater_age_simulator_v1.6.ipynb
+https://mybinder.org/v2/gh/JanekGreskowiak/Tr_He_in_Catchment/HEAD?urlpath=%2Fvoila%2Frender%2FGroundwater_age_simulator_v1.7.ipynb
 
 Literature:
 
