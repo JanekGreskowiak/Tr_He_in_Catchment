@@ -3,8 +3,8 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - scipy
-  - matplotlib
-  - ipywidgets
-  - voila
-  - ipympl
+  - scipy==1.7.1
+  - matplotlib==3.4.3
+  - ipywidgets==7.6.5
+  - voila==0.2.16
+  - ipympl==0.9.3
